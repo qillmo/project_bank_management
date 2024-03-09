@@ -1,0 +1,44 @@
+body {
+  /* background: rgb(221, 221, 221); */
+  /* background: linear-gradient(
+    90deg,
+    rgba(221, 221, 221, 1) 0%,
+    rgba(199, 199, 199, 1) 50%,
+    rgba(215, 215, 215, 1) 100%
+  ); */
+  font-size: 1.0rem;
+}
+
+.navbar-color {
+  background: rgb(0, 134, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 134, 255, 1) 0%,
+    rgba(114, 203, 252, 1) 50%
+  );
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.body-main {
+  margin-top: 2rem;
+}
+
+.form-control {
+  padding: 1rem 1rem;
+  font-size: 1.5rem;
+}
+
+.form-select {
+  font-size: 2.3rem;
+}
+
+.btn {
+  font-size: 1.5rem;
+}
+
+.input-group-append {
+  cursor: pointer;
+}
